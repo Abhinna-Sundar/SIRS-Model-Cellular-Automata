@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # SIRS Model (Epidemic Spread)
 # 
 # ### Author: Abhinna Sundar
